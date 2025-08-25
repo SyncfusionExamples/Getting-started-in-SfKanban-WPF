@@ -33,7 +33,7 @@ This repository contains a sample on How to get started with Syncfusion WPF SfKa
 			MainPage = new MainPage();
 		}
 		
-	Refer to this [link](https://help.syncfusion.com/maui/licensing/overview) for more details.
+	Refer to this [link](https://help.syncfusion.com/wpf/licensing/overview) for more details.
 	
 3. Clean and build the application.
 
